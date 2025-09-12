@@ -1,0 +1,1 @@
+ ssh -N -o ServerAliveInterval=30 -o ServerAliveCountMax=3 -R 7687:127.0.0.1:7687 tt

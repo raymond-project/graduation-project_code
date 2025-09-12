@@ -1,0 +1,14 @@
+LLM 建立圖  => /LLM_建圖.py
+
+導入neo4j =>  匯入entity到neo.py
+
+測試1 => 確保 圖是正確的
+測試圖是否被 MMR 取 出正確導入最後節點 => /home/st426/system/global_graph/取子圖演算法.py
+
+測試2 => limit 5 次後  是否有達到正確節點 =>  /home/st426/system/global_graph/取出錯誤取圖_未達節點.py
+產出/home/st426/system/global_graph/預測結果_正確_無匹配.csv
+然後記得刪掉999 因為沒有意義
+
+
+
+
