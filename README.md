@@ -7,4 +7,5 @@
 
 ->llm :結合gnn + prompt (cot)  
 
-
+報告書連結:
+https://docs.google.com/document/d/1MJcOnCbCrkARfScsuz2L8tlsn6sT51RG/edit?usp=sharing&ouid=107124090722542251241&rtpof=true&sd=true
