@@ -3,7 +3,7 @@
 
 ->llm和bert：llm加上bert(fine-tuing)取出重要句子  
 
-->gnn :根據子圖進行推理並結合query   
+->gnn :根據子圖進行推理並結合query (我改了一些內容還沒更新9/22)  
 
 ->llm :結合gnn + prompt (cot)  
 
