@@ -8,4 +8,4 @@
 ->llm :結合gnn + prompt (cot)  
 
 報告書連結:
-https://docs.google.com/document/d/1ksI1ZgO8HfydUZglgsjK67unTWDrM6nD/edit?usp=sharing&ouid=114504942721748514464&rtpof=true&sd=true 
+https://docs.google.com/document/d/170fc2LBJ3GuoFXDN2LpH76GXSP9opHjJk-JpJBHBrwc/edit?usp=sharing 
