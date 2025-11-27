@@ -5,7 +5,7 @@
 
 ->gnn :根據子圖進行推理並結合query (更新9/24)  
 
-->llm :結合gnn + prompt (cot)  
+
 
 專題報告書連結=>
 https://drive.google.com/file/d/1wxognDL7rSRakhq8FaGnYgU2ir_u1vSW/view?usp=sharing
