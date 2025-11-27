@@ -1,17 +1,5 @@
-
-###ReaRev+SBERT training
-# python main.py ReaRev --is_eval --load_experiment relbert-full_cwq-rearev-final.ckpt --entity_dim 50 --num_epoch 200 --batch_size 8 --eval_every 2  \
-# --lm relbert --num_iter 2 --num_ins 3 --num_gnn 3  --name cwq \
-# --experiment_name prn_cwq-rearev-sbert --data_folder data/CWQ/ --num_epoch 100 --warmup_epoch 80
-
-###ReaRev+LMSR training
-# python main.py ReaRev  --entity_dim 50 --num_epoch 200 --batch_size 8 --eval_every 2  \
-# --lm relbert --num_iter 2 --num_ins 3 --num_gnn 3  --name cwq \
-# --experiment_name prn_cwq-rearev-lmsr  --data_folder data/CWQ/ --num_epoch 100 #--warmup_epoch 80
-
+訓練=>
 python main.py ReaRev   --entity_dim 150   --num_epoch 10   --batch_size 8   --eval_every 2   --data_folder data/surdis3/   --lm ClinicalBERT   --num_iter 4   --num_ins 5   --num_gnn 6   --relation_word_emb True
-
-
 
 
 """
@@ -28,7 +16,8 @@ python main.py ReaRev   --entity_dim 150   --num_epoch 10   --batch_size 8   --e
 
 """
 
+
+使用方式=>
 #訓練完的gnn
-#--is_eval  使用評估模式
 python main.py ReaRev    --entity_dim 150   --data_folder data/surdis3/   --lm ClinicalBERT   --lm_frozen 1   --num_iter 2   --num_ins 2   --num_gnn 6   --relation_word_emb True   --load_experiment /home/st426/system/GNN-RAG/gnn/checkpoint/pretrain/-final.ckpt   --is_eval    --name cancer-scibert
   
