@@ -1,4 +1,4 @@
-會有的檔案  
+檔案說明=>
 ->取subgraph算法(global_graph) ：為了在圖上推理 用mmr和 graph-aware sampling 並用ppr在bfs上找路徑  
 
 ->建圖code：llm加上bert(fine-tuing)取出重要句子  
@@ -7,5 +7,5 @@
 
 ->llm :結合gnn + prompt (cot)  
 
-報告書連結:
-https://docs.google.com/document/d/1747fbCv9CLsd1RI082Q1AAFWWy3H1ijp0B0nDQfeYL4/edit?usp=sharing 
+專題報告書連結=>
+https://drive.google.com/file/d/1wxognDL7rSRakhq8FaGnYgU2ir_u1vSW/view?usp=sharing
