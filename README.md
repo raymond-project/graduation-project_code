@@ -2,8 +2,7 @@
 
 ->global_graph：為了在圖上推理 用mmr和 graph-aware sampling 並用ppr在bfs上找路徑    
 
-->gnn :根據子圖進行推理並結合query (更新9/24)  
-
+->gnn :根據子圖進行推理並結合query (更新9/24，最核心的CODE 費時2.5個月)  
 
 
 
