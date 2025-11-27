@@ -1,0 +1,15 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.json
+*.c
+*.h
+*.o
+*.out
+*.exe
+*.obj
+*.dll
+*.so
+*.a
