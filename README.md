@@ -6,5 +6,5 @@
 
 ->gnn/scripts/rearev.sh : 這是使用方式，會call data資料夾(要自己創建floder，因為保密協定關係刪掉了)
 
-
+流程圖例說明=>
 ![picture](picture.png)
